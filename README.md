@@ -73,8 +73,6 @@ RUVO is your presence. An emotional AI for those moments when human hearts need 
 
 ---
 
-## 🧠 Keywords
-
 `#EmotionalAI` `#RuvoAI` `#AICompanion` `#MentalHealthAI` `#GriefTech` `#HumanAI` `#ChildSafeAI`
 
 ---
