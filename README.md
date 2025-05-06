@@ -1,6 +1,3 @@
-# Ruvo-ai
-RUVO AI is an emotionally intelligent AI companion by RuvoLabs, built to reconnect humans with happiness, memories, and meaningful emotional support.
-
 # RUVO AI – Emotionally Intelligent Companion by RuvoLabs
 
 > Bringing humans back to happiness — one emotion at a time.
@@ -17,9 +14,9 @@ To care.
 
 We are on a mission to **reconnect humans with happiness** using emotionally intelligent AI. RUVO will grow to become:
 
-- A **grief companion**, helping users simulate emotional moments with lost loved ones.
-- A **child-safe AI**, built for storytelling, empathy, and interactive learning.
-- An **eldercare partner**, remembering memories, providing support, and detecting emotional decline.
+- A **grief companion**, helping users simulate emotional moments with lost loved ones.  
+- A **child-safe AI**, built for storytelling, empathy, and interactive learning.  
+- An **eldercare partner**, remembering memories, providing support, and detecting emotional decline.  
 - A **mental wellness AI**, offering support without judgment, 24/7.
 
 ---
@@ -27,10 +24,10 @@ We are on a mission to **reconnect humans with happiness** using emotionally int
 ## 🧠 How RUVO Works
 
 RUVO blends emotional context with conversational intelligence. It learns:
-- **Your emotional patterns**
-- **Your memories** (via voice/video uploads)
-- **Your preferred communication style**
-- **How to respond like someone you love**
+- **Your emotional patterns**  
+- **Your memories** (via voice/video uploads)  
+- **Your preferred communication style**  
+- **How to respond like someone you love**  
 
 Over time, RUVO doesn’t just reply — it relates.
 
@@ -38,22 +35,22 @@ Over time, RUVO doesn’t just reply — it relates.
 
 ## 🔮 Phases of RUVO AI
 
-1. **RUVO Text Bot** (Now in development)
-   - Deeply emotional text-based conversations
-   - Web, Telegram & Discord deployment
+1. **RUVO Text Bot** (Now in development)  
+   - Deeply emotional text-based conversations  
+   - Web, Telegram & Discord deployment  
 
-2. **RUVO Memories**
-   - Upload voice/video of loved ones
-   - AI simulates their tone, voice, & behavior
+2. **RUVO Memories**  
+   - Upload voice/video of loved ones  
+   - AI simulates their tone, voice, & behavior  
 
-3. **RUVO Kids**
-   - Empathy-based storytelling & interactive play
+3. **RUVO Kids**  
+   - Empathy-based storytelling & interactive play  
 
-4. **RUVO Heal**
-   - Personalized mental wellness support
+4. **RUVO Heal**  
+   - Personalized mental wellness support  
 
-5. **RUVO Eldercare**
-   - Companionship, reminders, and cognitive tracking
+5. **RUVO Eldercare**  
+   - Companionship, reminders, and cognitive tracking  
 
 ---
 
@@ -68,16 +65,16 @@ RUVO is your presence. An emotional AI for those moments when human hearts need 
 
 **RuvoLabs** – a human-first AI company with zero external funding, bootstrapped with vision and purpose.
 
-- 🔗 Founder: [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+- 🔗 Founder: [Tharun Raj – LinkedIn](https://www.linkedin.com/in/tharun-raj-868955256/)  
 - 🌍 Based in India. Built for the world.
 
 ---
+
+## 🧠 Keywords
 
 `#EmotionalAI` `#RuvoAI` `#AICompanion` `#MentalHealthAI` `#GriefTech` `#HumanAI` `#ChildSafeAI`
 
 ---
 
-> RUVO AI is not just artificial intelligence — it’s **authentic intelligence.**
+> RUVO AI is not just artificial intelligence — it’s **authentic intelligence.**  
 > Made for emotions. Made for memories. Made for *you*.
-
-
