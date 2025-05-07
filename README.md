@@ -78,3 +78,9 @@ RUVO is your presence. An emotional AI for those moments when human hearts need 
 
 > RUVO AI is not just artificial intelligence — it’s **authentic intelligence.**  
 > Made for emotions. Made for memories. Made for *you*.
+
+
+## 📬 RUVO AI Newsletter on LinkedIn
+
+Stay updated with our latest thoughts on Emotional Intelligence in AI.  
+Read our newsletter on LinkedIn here: [RUVO AI LinkedIn Newsletter](https://www.linkedin.com/newsletters/ruvo-bridging-ai-and-emotion-7325197025686257665/)
